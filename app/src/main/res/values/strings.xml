@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Android App In Kotlin</string>
+    <string name="sign_in">Sign in</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="email">Email</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="login">Log in</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="sign_in_apple">Sign in with Apple</string>
 </resources>
